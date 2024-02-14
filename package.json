@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "It is a weather app using Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajshukla-github/Weather.git"
+  },
+  "author": "Raj Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajshukla-github/Weather/issues"
+  },
+  "homepage": "https://github.com/rajshukla-github/Weather#readme"
+}
